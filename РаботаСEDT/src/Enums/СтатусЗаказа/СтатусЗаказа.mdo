@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7ad3935f-cdd7-4d33-94b1-886e38d57a3d">
+  <producedTypes>
+    <refType typeId="8a40d161-147e-4a5c-bc4c-b8a4fa7b26d3" valueTypeId="57f7816a-ce86-4fe5-a8fb-c94bc5ac7747"/>
+    <listType typeId="89781103-c4fc-408f-b15d-11d29c7c912c" valueTypeId="f78edeee-947c-45a2-bf56-e026581912c2"/>
+    <managerType typeId="07f86565-18a4-416b-9098-5dd448923466" valueTypeId="160e8f4d-9d14-4b31-b940-e0bc29749212"/>
+  </producedTypes>
+  <name>СтатусЗаказа</name>
+  <synonym>
+    <key>ru</key>
+    <value>Статус заказа</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="80b05b00-5a15-4b0b-8c9b-dffb09020529">
+    <name>ВРаботе</name>
+    <synonym>
+      <key>ru</key>
+      <value>В работе</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="42def93e-e5da-4d39-a68a-ac757bbd8a22">
+    <name>ОбратитьВнимание</name>
+    <synonym>
+      <key>ru</key>
+      <value>Обратить внимание</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="76c44374-bd74-4c58-9204-22796e39e779">
+    <name>Выполнен</name>
+    <synonym>
+      <key>ru</key>
+      <value>Выполнен</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
