@@ -163,4 +163,19 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="b9e94bde-bc55-44d4-8d20-bdc9e09db8da">
+    <name>ДКЛ_Производитель</name>
+    <synonym>
+      <key>ru</key>
+      <value>ДКЛ производитель</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.ДКЛ_Производители</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
 </mdclass:Catalog>
