@@ -150,6 +150,24 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="3b2ca914-a03d-46ec-8799-042e05d9f909">
+    <name>ВремяДоставки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Время доставки</value>
+    </synonym>
+    <type>
+      <types>Date</types>
+      <dateQualifiers>
+        <dateFractions>Time</dateFractions>
+      </dateQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <forms uuid="c99af592-e053-4331-83c5-68fa5a47e09e">
     <name>ФормаДокумента</name>
     <synonym>
