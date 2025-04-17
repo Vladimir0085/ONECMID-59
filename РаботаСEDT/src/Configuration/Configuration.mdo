@@ -1182,6 +1182,10 @@
   <catalogs>Catalog.ГруппыВнешнихПользователей</catalogs>
   <catalogs>Catalog.ГруппыДоступа</catalogs>
   <catalogs>Catalog.ГруппыПользователей</catalogs>
+  <catalogs>Catalog.ДКЛ_Должности</catalogs>
+  <catalogs>Catalog.ДКЛ_ДоставкаПрисоединенныеФайлы</catalogs>
+  <catalogs>Catalog.ДКЛ_КонтактныеЛица</catalogs>
+  <catalogs>Catalog.ДКЛ_Производители</catalogs>
   <catalogs>Catalog.ДоговорыКонтрагентов</catalogs>
   <catalogs>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы</catalogs>
   <catalogs>Catalog.ДополнительныеОтчетыИОбработки</catalogs>
@@ -1217,9 +1221,6 @@
   <catalogs>Catalog.УчетныеЗаписиСинхронизацииФайлов</catalogs>
   <catalogs>Catalog.УчетныеЗаписиЭлектроннойПочты</catalogs>
   <catalogs>Catalog.Файлы</catalogs>
-  <catalogs>Catalog.ДКЛ_КонтактныеЛица</catalogs>
-  <catalogs>Catalog.ДКЛ_Должности</catalogs>
-  <catalogs>Catalog.ДКЛ_ДоставкаПрисоединенныеФайлы</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
   <documents>Document.ОплатаОтПокупателя</documents>
   <documents>Document.ОплатаПоставщику</documents>
